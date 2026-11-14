@@ -159,22 +159,22 @@ df["Month"]        = df["Order Date"].dt.to_period("M").dt.to_timestamp()
 The notebook produces the following charts (saved in [`images/`](images/)):
 
 ### Monthly revenue and profit
-![Monthly revenue and profit](images/monthly_revenue_profit.png)
+![Monthly revenue and profit](images/Monthly%20revenue%20and%20profit.png)
 
 ### Yearly revenue
-![Yearly revenue](images/yearly_revenue.png)
+![Yearly revenue](images/Yearly%20revenue.png)
 
 ### Revenue by coffee type, country and roast
-![Revenue by category](images/revenue_by_category.png)
+![Revenue by category](images/Revenue%20by%20coffee%20type,%20country%20and%20roast.png)
 
 ### Country × coffee type heatmap
-![Country and coffee heatmap](images/heatmap_country_coffee.png)
+![Country and coffee heatmap](images/Revenue%20country%20%C3%97%20coffee%20type.png)
 
 ### Revenue trend by coffee type (3-month moving average)
-![Trend by coffee type](images/trend_by_coffee_type.png)
+![Trend by coffee type](images/Monthly%20revenue%20trend%20by%20coffee%20type.png)
 
 ### Top customers and loyalty card effect
-![Top customers and loyalty](images/top_customers_loyalty.png)
+![Top customers and loyalty](images/Top%2010%20customers%20and%20loyalty%20card%20effect.png)
 
 ### KPIs computed
 
