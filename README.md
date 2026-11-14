@@ -239,8 +239,8 @@ Run all cells. The notebook also exports `coffee_orders_clean.csv`.
 
 **Hamza** — Computer Science student, École Supérieure de Technologie – Safi
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-profile](https://www.linkedin.com/in/your-profile)
+- GitHub: [@hamzaX12](https://github.com/hamzaX12)
+- LinkedIn: [hamza-ben-allou-48ab31236](https://www.linkedin.com/in/hamza-ben-allou-48ab31236)
 
 ---
 
